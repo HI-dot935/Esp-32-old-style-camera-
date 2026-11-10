@@ -23,6 +23,7 @@ learn something new.
 
 ## Build note's
 So first as you can see the small box it's for battery (where we will place battery )making it easy to swap or change battery when needed. There's enough space to fit the battery also enough so that there's no issue in plugging the connector's. You need to manually glue the battery case at height with main body case.
+
 <img width="539" height="434" alt="Screenshot 2026-11-10 at 11 51 18 AM" src="https://github.com/user-attachments/assets/8f9ccfdc-a4f9-4448-abd5-d2ff77cbfff7" />
 
 All one has to do is connect a battery 1s 3.7v lipo with the connector. Flash the firmware power it on check and enjoy a self made camera.
