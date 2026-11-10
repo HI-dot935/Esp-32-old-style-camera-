@@ -26,3 +26,4 @@ So first as you can see the small box it's for battery (where we will place batt
 <img width="539" height="434" alt="Screenshot 2026-11-10 at 11 51 18 AM" src="https://github.com/user-attachments/assets/8f9ccfdc-a4f9-4448-abd5-d2ff77cbfff7" />
 
 All one has to do is connect a battery 1s 3.7v lipo with the connector. Flash the firmware power it on check and enjoy a self made camera.
+Use double tape to attach the camera body to the case internally. Same way to attach the battery in case first.
